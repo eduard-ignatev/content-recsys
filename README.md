@@ -35,7 +35,10 @@ The project consisted of three parts:
 
 ## Demonstration
 Using Uvicorn to start the server process:
+![Server startup](https://user-images.githubusercontent.com/97912967/194586881-e7c4170a-bd62-4769-bf83-5dfca8858717.png)
 
 Checking GET request with Postman:
+![GET request](https://user-images.githubusercontent.com/97912967/194586922-7e57e76a-ebc0-4300-b147-dd20cf77779c.png)
 
 Service provides corresponsing errors if user ID doesn't exist or in case of a type error:
+![Responses](https://user-images.githubusercontent.com/97912967/194586958-756cdb3e-f533-4718-b8e5-90d14dbc2fee.png)
