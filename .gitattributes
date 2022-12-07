@@ -1,4 +1,2 @@
 # Ignore notebooks from language stats
-Content RecSys Baseline/*.ipynb linguist-documentation
-Content RecSys Deep Learning/*.ipynb linguist-documentation
-Content RecSys AB Testing/*.ipynb linguist-documentation
+*.ipynb linguist-documentation
